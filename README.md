@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is **Mohit Aswani**.
 
-#### I'm currently exploring 
+#### I'm currently exploring.
 
 Skills: **C/Cpp/Kotlin/Java/MATLAB**
 
@@ -12,7 +12,7 @@ Skills: **C/Cpp/Kotlin/Java/MATLAB**
  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohit-aswani-345ab31bb/) 
 
-- ⚡ Fun fact: I can code all day and night. 
+- ⚡ Fun fact: I am not that fun. 
 
 ## 🧰 Languages and Tools:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
