@@ -1,7 +1,8 @@
 ### Hi there 👋, My name is **Mohit Aswani**.
+
 #### I'm currently exploring 
 
-Skills: C/Cpp/Kotlin/Java/MATLAB
+Skills: **C/Cpp/Kotlin/Java/MATLAB**
 
 - 🔭 I’m currently working on developing android apps and cloud computing. 
 
