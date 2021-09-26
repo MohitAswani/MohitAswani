@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mohit Aswani</h1>
-<h3 align="left">Currently a explorer.</h3>
+<h3 align="left">I am currently exploring 🌎.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitaswani&label=Profile%20views&color=0e75b6&style=flat" alt="mohitaswani" /> </p>
 
