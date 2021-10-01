@@ -22,8 +22,7 @@
 
 - 🌱 I’m currently learning Kotlin , Android and Google Cloud 
 
-- 👯 I’m looking to collaborate on 
-
+- 📫 You can reach me at : aswanim96@gmail.com 
 
 - 💬 Talk to me about C , Cpp , Java , Competitive programming 
 
