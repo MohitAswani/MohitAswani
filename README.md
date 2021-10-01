@@ -55,7 +55,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitaswani&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mohitaswani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitaswani&show_icons=true&locale=en&theme=tokyonight" alt="mohitaswani" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitaswani&show_icons=true&locale=en&theme=tokyonight" alt="mohitaswani" width='500px'></p>
   
   
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MohitAswani&theme=github&count_private=true)
