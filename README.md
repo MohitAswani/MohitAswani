@@ -15,7 +15,7 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img height=250px width=500px  align="right" alt="Github" src="https://github.com/MohitAswani/MohitAswani/blob/main/Untitled.jpg" />
 
 
 - 🔭 I’m currently working on developing android apps and cloud computing.
