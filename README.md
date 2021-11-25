@@ -15,9 +15,6 @@
 
 <h2> About Me </h2>
 
-<img height=250px width=500px  align="right" alt="Github" src="https://github.com/MohitAswani/MohitAswani/blob/main/Untitled.jpg" />
-
-
 - 🔭 I’m currently working on developing android apps and cloud computing.
 
 - 🌱 I’m currently learning Kotlin , Android and Google Cloud 
