@@ -15,13 +15,13 @@
 
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on developing android apps and cloud computing.
+- 🔭 I’m currently working on creating websites.
 
-- 🌱 I’m currently learning Kotlin , Android and Google Cloud 
+- 🌱 I’m currently learning web dev.
 
-- 📫 You can reach me at : aswanim96@gmail.com 
+- 📫 You can reach me at : aswanim96@gmail.com.
 
-- 💬 Talk to me about C , Cpp , Java , Competitive programming 
+- 💬 Talk to me about Android app development , Kotlin , Competitive programming.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px> </h2>
 <a href= https://github.com/MohitAswani?tab=repositories&q=&type=&language=python&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -35,9 +35,18 @@
 <a href= https://github.com/MohitAswani?tab=repositories&q=&type=&language=kotlin&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg'> </a>
 <a href= https://github.com/MohitAswani?tab=repositories&q=&type=&language=matlab&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/matlab.svg'> </a>
 <a href= https://github.com/MohitAswani?tab=repositories&q=&type=&language=mysql&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-  </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-
+<a href="https://cloud.google.com" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=html&sort= > 
+<img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=css&sort= > 
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=java&sort= > 
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
