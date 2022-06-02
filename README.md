@@ -1,6 +1,6 @@
 
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow < Developers/ >! </h1>
 <p align='center'>
  
 <p> <img align="left" src="https://komarev.com/ghpvc/?username=mohitaswani&label=Profile%20views&color=0e75b6&style=flat" alt="mohitaswani" /> </p>
@@ -13,7 +13,7 @@
 
 * 💻 Following are some of the apps I worked on : <a href="https://play.google.com/store/apps/details?id=com.admybrand.boxtv">Box TV</a>, <a href="https://play.google.com/store/apps/details?id=com.admybrand.box">Box companion app</a>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px> </h2>
+<h2> Skills </h2>
 <a href= https://github.com/MohitAswani?tab=repositories&q=&type=&language=python&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/MohitAswani?tab=repositories&q=&type=&language=c&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= https://github.com/MohitAswani?tab=repositories&q=&type=&language=cpp&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
@@ -43,7 +43,7 @@
 <a href= https://github.com/?tab=repositories&q=&type=&language=pug&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pug.svg'> </a>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me </h2>
 <p align="left">
 <a href="https://linkedin.com/in/mohit-aswani-345ab31bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit-aswani-345ab31bb" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/bigrover0196" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="bigrover0196" height="30" width="40" /></a>
@@ -51,7 +51,7 @@
 </p>
 
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2> My GitHub Stats </h2>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohitAswani&show_icons=true&theme=tokyonight" />
